@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+.fe{
+    text-align: center;
+}
+a:hover{
+    color: red;
+    text-decoration: underline;
+}
+
